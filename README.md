@@ -67,6 +67,7 @@
   <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rsb-bd&show_icons=true&locale=en&layout=compact" alt="rsb-bd" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rsb-bd&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=ff6e96&icon_color=ff6e96" alt="rsb-bd" />
 </p>
+
