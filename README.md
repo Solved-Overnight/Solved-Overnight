@@ -12,9 +12,9 @@
 <p align="left">
   🔭 I’m currently working on AI & Machine Learning<br>
   🌱 I’m currently learning Data Structures and MySQL<br>
-  👯 I’m looking to collaborate on Data Science Projects<br>
+  👯 I’m looking to collaborate on Data Science Projects
   💬 Ask me about Java, Python<br>
-  📫 How to reach me: mzrishad.info@gmail.com<br>
+  📫 How to reach me: mzrishad.info@gmail.com
   ⚡ Fun fact: Teaching a computer to learn without data is like teaching a fish to ride a bicycle.
 </p>
 
