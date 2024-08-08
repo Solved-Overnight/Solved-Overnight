@@ -26,11 +26,15 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://dribbble.com/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dribbble/dribbble-original.svg" alt="Dribbble" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dribbble.svg" alt="Dribbble" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/SolvedOvernight" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="YouTube" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
+  <a href="https://rishadmz.web.app/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/internet-explorer.svg" alt="Portfolio" height="30" width="40" />
+  </a>
+</p>
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank">
