@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI & Machine Learning, focusing on real-world problem-solving and production-ready systems<br><br>🌱 I’m currently learning effective workflows using AI Agents to automate research, development, and decision-making<br><br>👯 I’m looking to collaborate on AI/ML projects, data-driven systems, and intelligent web applications<br><br>💬 Ask me about Machine Learning, Python, data pipelines, AI agents, or turning ideas into working products<br><br>📫 How to reach me: mzrishad.info@gmail.com / linkedin.com/in/mzrishad/ / mzrishad.netlify.app<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I prefer building real systems over tutorial projects
+🔭 Building AI & ML systems for real-world problems<br><br>🌱 Learning AI agents & automation-driven development<br><br>👯 Open to AI/ML collaborations<br><br>💬 Happy to talk about ML, Python, and system design<br><br>📫 Reach me via mzrishad.info@gmail.com / linkedin.com/in/mzrishad/ / mzrishad.netlify.app<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I break things just to understand how they work
 
 
 ## 🌐 Socials:
