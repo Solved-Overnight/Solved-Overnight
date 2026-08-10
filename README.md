@@ -1,28 +1,244 @@
-# 💫 About Me:
-🔭 Building AI & ML systems for real-world problems<br><br>🌱 Learning AI agents & automation-driven development<br><br>👯 Open to AI/ML collaborations<br><br>💬 Happy to talk about ML, Python, and system design<br><br>📫 Reach me via mzrishad.info@gmail.com / linkedin.com/in/mzrishad/ / mzrishad.netlify.app<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I break things just to understand how they work
+<div align="center">
 
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Moniruzzaman%20Rishad&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Lone%20Wolf%20of%20the%20ML%20Pipeline&descAlignY=55&descSize=16)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mzrishad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mzrishad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Solved-Overnight) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mzrishad.info@gmail.com) 
+<table>
+<tr>
+<td width="34%" valign="middle" align="center">
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Solved-Overnight&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Solved-Overnight&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Solved-Overnight&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<pre>
+                                
+             ##                
+      #      # ##              
+      # ##   ##  #             
+       #   ####   ##           
+       #  ##      # ###        
+       ###       ##   ##       
+      ##   #           ###     
+     #   #   #   #      ##  #  
+     #   #  ####  ##   ## #  # 
+   ##    ###    ###    ####  # 
+ ##  ##########   #     ##   # 
+#  #############   #     #  ## 
+#  ### ###           #      ## #
+  #####      #      ##     ## # 
+            ###   ###     ####  
+            ##   ##     #####   
+         #     ##     #####     
+        #    #      #####       
+       ##  #     ######         
+      ###  #  ######            
+      #### ######                
+     ########                   
+     #####                      
+     ###                        
+     #                          
+</pre>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Solved-Overnight&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</td>
+<td width="66%" valign="middle" align="left">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00C7B7&vCenter=true&width=440&height=45&lines=MONIRUZZAMAN+RISHAD)](https://git.io/typing-svg)
 
----
-[![](https://visitcount.itsvg.in/api?id=Solved-Overnight&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=8892B0&vCenter=true&width=440&lines=Building+AI+%26+ML+systems+for+real-world+problems;Learning+AI+agents+%26+automation-driven+dev;Fine-tuning+models+%2F+wrangling+datasets;A+lone+wolf+hunting+down+hard+ML+problems+%F0%9F%90%BA)](https://git.io/typing-svg)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mzrishad) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mzrishad) 
+```yaml
+role:     AI / ML Engineer @ Lantabur Apparels Ltd.
+based_in: Rangpur City, Bangladesh
+status:   [ONLINE] hunting bugs, shipping models
+pack:     open to AI/ML collaborations
+```
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![visitors](https://komarev.com/ghpvc/?username=Solved-Overnight&label=Profile%20Views&color=00c7b7&style=flat)
+![followers](https://img.shields.io/github/followers/Solved-Overnight?label=Followers&style=flat&color=00c7b7)
+
+</td>
+</tr>
+</table>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+</div>
+
+### `$ whoami`
+
+```yaml
+name:      Moniruzzaman Rishad
+role:      AI / ML Engineer @ Lantabur Apparels Ltd.
+based_in:  Rangpur City, Bangladesh
+path:      Textile Engineering (B.Sc., AUST) → self-taught ML → production AI
+pronouns:  He / Him
+status:    [ONLINE] shipping models, breaking things on purpose
+fun_fact:  I break things just to understand how they work
+```
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=8892B0&center=true&vCenter=true&width=600&lines=%22The+only+way+to+learn+a+new+system+is+to+break+it+first%22" alt="quote" />
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+### `$ cat tech_stack.log`
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=00C7B7&center=true&vCenter=true&width=550&lines=loading+stack...;compiling+skills...;%5BOK%5D+stack+ready)](https://git.io/typing-svg)
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,django,flask,nodejs,nextjs,angular,ts,js,mysql,sqlite,mongodb,firebase,java,git,github,netlify&theme=dark&perline=10" />
+
+</div>
+
+```
+┌── ML / Data ──────────────────┬── Web / Backend ───────────────┐
+│ ▓▓▓▓▓▓▓▓▓▓ Python              │ ▓▓▓▓▓▓▓▓░░ FastAPI / Django     │
+│ ▓▓▓▓▓▓▓▓░░ TensorFlow          │ ▓▓▓▓▓▓▓░░░ Node.js / Next.js    │
+│ ▓▓▓▓▓▓▓░░░ scikit-learn        │ ▓▓▓▓▓▓░░░░ Angular              │
+│ ▓▓▓▓▓▓▓░░░ Pandas / NumPy      │ ▓▓▓▓▓▓░░░░ TypeScript           │
+│ ▓▓▓▓▓▓░░░░ Matplotlib / SciPy  │ ▓▓▓▓▓░░░░░ MySQL / MongoDB      │
+└────────────────────────────────┴─────────────────────────────────┘
+```
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+### `$ ./run_stats.sh --live`
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solved-Overnight&theme=radical&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117)](https://github.com/Solved-Overnight)
+
+</td>
+<td>
+
+[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Solved-Overnight&theme=radical&hide_border=true&background=0d1117)](https://github.com/Solved-Overnight)
+
+</td>
+</tr>
+</table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solved-Overnight&theme=radical&hide_border=true&layout=compact&bg_color=0d1117)](https://github.com/Solved-Overnight)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+### `$ tail -f contribution_graph.snake`
+
+<div align="center">
+
+<!--
+  Animated contribution snake — auto-generated via the
+  Platane/snk GitHub Action. Swap in your own generated
+  SVG once the workflow below runs on your repo; using
+  the demo output here in the meantime.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ customize &amp; self-host the snake (click to expand)</summary>
+
+```yaml
+# .github/workflows/snake.yml
+name: generate snake animation
+on:
+  schedule:
+    - cron: "0 0 * * *"      # rebuild daily at midnight
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Solved-Overnight
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-grey.svg?color_snake=%2300C7B7&color_dots=%232c5364,%232c5364,%23305b6c,%2300C7B7,%2300C7B7
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Palette options for `snk`:** `github`, `github-dark`, `dracula`, or a custom
+5-stop gradient via `?color_snake=` / `?color_dots=` like the teal one above,
+to match this README's accent color. Once the workflow runs once, point the
+`<img>` src at your own repo:
+`https://raw.githubusercontent.com/Solved-Overnight/Solved-Overnight/output/github-contribution-grid-snake-grey.svg`
+
+</details>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+### `$ ls -la trophies/`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Solved-Overnight&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+### `$ curl socials`
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mzrishad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mzrishad)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Solved-Overnight)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mzrishad.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzrishad.info@gmail.com)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+<div align="center">
+
+### `$ echo "buy me a coffee?"`
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mzrishad)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mzrishad)
+
+<br/>
+
+[![Visitors](https://visitcount.itsvg.in/api?id=Solved-Overnight&icon=0&color=6)](https://visitcount.itsvg.in)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/Solved-Overnight)
+
+</div>
+
+<div align="center">
+
+```
+   /\_/\____,
+  /       (  \
+ (   O   O    \____
+  \   ~     ,       )   "hunts problems, not attention."
+   \  U   /^^^^\ /
+    \/  \(     |||
+     |   |    |||
+     (___/    |||
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1500&color=00C7B7&center=true&vCenter=true&width=500&lines=thanks+for+stopping+by+%E2%80%94+let%27s+build+something.)](https://git.io/typing-svg)
+
+</div>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
+
+<div align="center"><sub>Proudly hand-rebuilt from a GPRM-generated base ✦ animated with capsule-render, readme-typing-svg &amp; Platane/snk</sub></div>
