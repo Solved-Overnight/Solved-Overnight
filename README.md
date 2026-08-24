@@ -89,13 +89,13 @@ fun_fact:  I break things just to understand how they work
 </div>
 
 ```
-┌── ML / Data ──────────────────┬── Web / Backend ───────────────┐
-│ ▓▓▓▓▓▓▓▓▓▓ Python              │ ▓▓▓▓▓▓▓▓░░ FastAPI / Django     │
-│ ▓▓▓▓▓▓▓▓░░ TensorFlow          │ ▓▓▓▓▓▓▓░░░ Node.js / Next.js    │
-│ ▓▓▓▓▓▓▓░░░ scikit-learn        │ ▓▓▓▓▓▓░░░░ Angular              │
-│ ▓▓▓▓▓▓▓░░░ Pandas / NumPy      │ ▓▓▓▓▓▓░░░░ TypeScript           │
-│ ▓▓▓▓▓▓░░░░ Matplotlib / SciPy  │ ▓▓▓▓▓░░░░░ MySQL / MongoDB      │
-└────────────────────────────────┴─────────────────────────────────┘
+┌── ML / Data ───────────────────┬── AI Engineering ────────────────┬── Web / Backend ────────────────┐
+│ ▓▓▓▓▓▓▓▓▓▓ Python              │ ▓▓▓▓▓▓▓▓░░ LangChain             │ ▓▓▓▓▓▓▓▓░░ FastAPI / Django     │
+│ ▓▓▓▓▓▓▓▓░░ TensorFlow          │ ▓▓▓▓▓▓▓░░░ MCP Server            │ ▓▓▓▓▓▓▓░░░ Node.js / Next.js    │
+│ ▓▓▓▓▓▓▓░░░ scikit-learn        │ ▓▓▓▓▓▓░░░░ LLMs                  │ ▓▓▓▓▓▓░░░░ Angular              │
+│ ▓▓▓▓▓▓▓░░░ Pandas / NumPy      │ ▓▓▓▓▓▓░░░░ Generative AI         │ ▓▓▓▓▓▓░░░░ TypeScript           │
+│ ▓▓▓▓▓▓░░░░ Matplotlib / SciPy  │ ▓▓▓▓▓░░░░░ RAG                   │ ▓▓▓▓▓░░░░░ MySQL / MongoDB      │
+└────────────────────────────────┴──────────────────────────────────┴─────────────────────────────────┘
 ```
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
