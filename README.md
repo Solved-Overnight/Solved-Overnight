@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Moniruzzaman%20Rishad&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Lone%20Wolf%20of%20the%20ML%20Pipeline&descAlignY=55&descSize=16)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&width=1600&section=header&text=Moniruzzaman%20Rishad&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Lone%20Wolf%20of%20the%20ML%20Pipeline&descAlignY=55&descSize=16)
 
-<table>
+<table width="100%">
 <tr>
-<td width="34%" valign="middle" align="center">
+<td width="30%" valign="middle" align="center">
 
 <pre>
                                 
@@ -36,11 +36,11 @@
 </pre>
 
 </td>
-<td width="66%" valign="middle" align="left">
+<td width="70%" valign="middle" align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00C7B7&vCenter=true&width=440&height=45&lines=MONIRUZZAMAN+RISHAD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00C7B7&vCenter=true&width=600&height=45&lines=MONIRUZZAMAN+RISHAD)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=8892B0&vCenter=true&width=440&lines=Building+AI+%26+ML+systems+for+real-world+problems;Learning+AI+agents+%26+automation-driven+dev;Fine-tuning+models+%2F+wrangling+datasets;A+lone+wolf+hunting+down+hard+ML+problems+%F0%9F%90%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=8892B0&vCenter=true&width=600&lines=Building+AI+%26+ML+systems+for+real-world+problems;Learning+AI+agents+%26+automation-driven+dev;Fine-tuning+models+%2F+wrangling+datasets;A+lone+wolf+hunting+down+hard+ML+problems+%F0%9F%90%BA)](https://git.io/typing-svg)
 
 ```yaml
 role:     AI / ML Engineer @ Lantabur Apparels Ltd.
