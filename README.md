@@ -1,46 +1,58 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&width=1600&section=header&text=Moniruzzaman%20Rishad&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%7C%20Lone%20Wolf%20of%20the%20ML%20Pipeline&descAlignY=55&descSize=16)
+<!-- Keep "Banner Image.png" in the same directory as this README. -->
+<img src="./Banner%20Image.png" alt="Rishad Habib — AI/ML Engineer" width="100%" />
 
+<br/>
+
+<a href="https://mzrishad.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mzrishad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Solved-Overnight"><img src="https://img.shields.io/badge/GitHub-Solved--Overnight-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:mzrishad.info@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+### `BUILD → EVALUATE → DEPLOY → IMPROVE`
+
+**AI/ML Engineer · Applied AI · Agentic Systems**
+
+*Turning data, models, and practical engineering into useful products.*
+
+<img src="https://komarev.com/ghpvc/?username=Solved-Overnight&label=PROFILE%20VIEWS&color=00C7B7&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Solved-Overnight?label=FOLLOWERS&style=flat-square&color=00C7B7" alt="GitHub followers"/>
+
+</div>
+
+---
+
+## `01 / PROFILE`
 <table width="100%">
+<tr>
+<td colspan="2" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=6&section=header" width="1200" height="6" alt=""/>
+</td>
+</tr>
 <tr>
 <td width="30%" valign="middle" align="center">
 
 <pre>
-                                
-             ##                
-      #      # ##              
-      # ##   ##  #             
-       #   ####   ##           
-       #  ##      # ###        
-       ###       ##   ##       
-      ##   #           ###     
-     #   #   #   #      ##  #  
-     #   #  ####  ##   ## #  # 
-   ##    ###    ###    ####  # 
- ##  ##########   #     ##   # 
-#  #############   #     #  ## 
-#  ### ###           #      ## #
-  #####      #      ##     ## # 
-            ###   ###     ####  
-            ##   ##     #####   
-         #     ##     #####     
-        #    #      #####       
-       ##  #     ######         
-      ###  #  ######            
-      #### ######                
-     ########                   
-     #####                      
-     ###                        
-     #                          
+  /\         /\
+ /  \_______/  \
+/   /       \   \
+|  /  O   O  \  |
+ \ |    _    | /
+  \|   (_)   |/
+   \   \_/   /
+    '.  ^  .'
+      \___/
 </pre>
 
 </td>
 <td width="70%" valign="middle" align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00C7B7&vCenter=true&width=600&height=45&lines=MONIRUZZAMAN+RISHAD)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=8892B0&vCenter=true&width=600&lines=Building+AI+%26+ML+systems+for+real-world+problems;Learning+AI+agents+%26+automation-driven+dev;Fine-tuning+models+%2F+wrangling+datasets;A+lone+wolf+hunting+down+hard+ML+problems+%F0%9F%90%BA)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00C7B7&vCenter=true&width=600&height=35&lines=MONIRUZZAMAN+RISHAD" alt="Name"/></a>
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=8892B0&vCenter=true&width=600&height=25&lines=Building+AI+%26+ML+systems+for+real-world+problems;Learning+AI+agents+%26+automation-driven+dev;Fine-tuning+models+%2F+wrangling+datasets;A+lone+wolf+hunting+down+hard+ML+problems+%F0%9F%90%BA" alt="Tagline"/></a>
 
 ```yaml
 role:     AI / ML Engineer @ Lantabur Apparels Ltd.
@@ -49,37 +61,20 @@ status:   [ONLINE] hunting bugs, shipping models
 pack:     open to AI/ML collaborations
 ```
 
-![visitors](https://komarev.com/ghpvc/?username=Solved-Overnight&label=Profile%20Views&color=00c7b7&style=flat)
-![followers](https://img.shields.io/github/followers/Solved-Overnight?label=Followers&style=flat&color=00c7b7)
+<img src="https://komarev.com/ghpvc/?username=Solved-Overnight&label=Profile%20Views&color=00c7b7&style=flat" alt="visitors"/>
+<img src="https://img.shields.io/github/followers/Solved-Overnight?label=Followers&style=flat&color=00c7b7" alt="followers"/>
 
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=6&section=footer" width="1200" height="6" alt=""/>
 </td>
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
-
+## `02 / TECH STACK`
 </div>
-
-### `$ whoami`
-
-```yaml
-name:      Moniruzzaman Rishad
-role:      AI / ML Engineer @ Lantabur Apparels Ltd.
-based_in:  Rangpur City, Bangladesh
-path:      Textile Engineering (B.Sc., AUST) → self-taught ML → production AI
-pronouns:  He / Him
-status:    [ONLINE] shipping models, breaking things on purpose
-fun_fact:  I break things just to understand how they work
-```
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=8892B0&center=true&vCenter=true&width=600&lines=%22The+only+way+to+learn+a+new+system+is+to+break+it+first%22" alt="quote" />
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
-
-### `$ cat tech_stack.log`
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=00C7B7&center=true&vCenter=true&width=550&lines=loading+stack...;compiling+skills...;%5BOK%5D+stack+ready)](https://git.io/typing-svg)
@@ -88,157 +83,161 @@ fun_fact:  I break things just to understand how they work
 
 </div>
 
-```
-┌── ML / Data ───────────────────┬── AI Engineering ────────────────┬── Web / Backend ────────────────┐
-│ ▓▓▓▓▓▓▓▓▓▓ Python              │ ▓▓▓▓▓▓▓▓░░ LangChain             │ ▓▓▓▓▓▓▓▓░░ FastAPI / Django     │
-│ ▓▓▓▓▓▓▓▓░░ TensorFlow          │ ▓▓▓▓▓▓▓░░░ MCP Server            │ ▓▓▓▓▓▓▓░░░ Node.js / Next.js    │
-│ ▓▓▓▓▓▓▓░░░ scikit-learn        │ ▓▓▓▓▓▓░░░░ LLMs                  │ ▓▓▓▓▓▓░░░░ Angular              │
-│ ▓▓▓▓▓▓▓░░░ Pandas / NumPy      │ ▓▓▓▓▓▓░░░░ Generative AI         │ ▓▓▓▓▓▓░░░░ TypeScript           │
-│ ▓▓▓▓▓▓░░░░ Matplotlib / SciPy  │ ▓▓▓▓▓░░░░░ RAG                   │ ▓▓▓▓▓░░░░░ MySQL / MongoDB      │
-└────────────────────────────────┴──────────────────────────────────┴─────────────────────────────────┘
-```
+---
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+## `03 / WHAT I BUILD`
 
-### `$ ./run_stats.sh --live`
-
-<div align="center">
 <table>
-<tr>
-<td>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solved-Overnight&theme=radical&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117)](https://github.com/Solved-Overnight)
-
-</td>
-<td>
-
-[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Solved-Overnight&theme=radical&hide_border=true&background=0d1117)](https://github.com/Solved-Overnight)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Machine Learning</h3>
+      Predictive modeling, classification, data preparation, feature engineering, and model evaluation.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Applied & Agentic AI</h3>
+      LLM applications, retrieval-augmented generation (RAG), tool calling, semantic search, and workflow automation.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ Computer Vision</h3>
+      Image classification and vision-based workflows for practical product and operational use cases.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 AI Engineering</h3>
+      Python services, REST APIs, data pipelines, application integrations, and deployment-oriented development.
+    </td>
+  </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solved-Overnight&theme=radical&hide_border=true&layout=compact&bg_color=0d1117)](https://github.com/Solved-Overnight)
+---
 
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
-
-### `$ tail -f contribution_graph.snake`
+## `04 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<!--
-  Animated contribution snake — auto-generated via the
-  Platane/snk GitHub Action. Swap in your own generated
-  SVG once the workflow below runs on your repo; using
-  the demo output here in the meantime.
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg" />
-</picture>
+<a href="https://github.com/Solved-Overnight">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Solved-Overnight&show_icons=true&hide_border=true&theme=transparent&title_color=00C7B7&icon_color=00C7B7" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/Solved-Overnight">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solved-Overnight&layout=compact&hide_border=true&theme=transparent&title_color=00C7B7" alt="Most used languages"/>
+</a>
 
 </div>
 
-<details>
-<summary>⚙️ customize &amp; self-host the snake (click to expand)</summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: generate snake animation
-on:
-  schedule:
-    - cron: "0 0 * * *"      # rebuild daily at midnight
-  push:
-    branches: [ main ]
-  workflow_dispatch: {}
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Solved-Overnight
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-grey.svg?color_snake=%2300C7B7&color_dots=%232c5364,%232c5364,%23305b6c,%2300C7B7,%2300C7B7
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Palette options for `snk`:** `github`, `github-dark`, `dracula`, or a custom
-5-stop gradient via `?color_snake=` / `?color_dots=` like the teal one above,
-to match this README's accent color. Once the workflow runs once, point the
-`<img>` src at your own repo:
-`https://raw.githubusercontent.com/Solved-Overnight/Solved-Overnight/output/github-contribution-grid-snake-grey.svg`
-
-</details>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
-
-### `$ ls -la trophies/`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Solved-Overnight&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
-
-### `$ curl socials`
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mzrishad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mzrishad)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Solved-Overnight)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mzrishad.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mzrishad.info@gmail.com)
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
-
-<div align="center">
-
-### `$ echo "buy me a coffee?"`
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mzrishad)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mzrishad)
+---
+## `05 / `
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=140&section=header&text=Selected%20Work&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=05%20/%20Production%20ML%20·%20Computer%20Vision%20·%20Agentic%20Systems&descSize=14&descAlignY=65" width="100%" alt="Selected Work banner"/>
 
 <br/>
 
-[![Visitors](https://visitcount.itsvg.in/api?id=Solved-Overnight&icon=0&color=6)](https://visitcount.itsvg.in)
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/Solved-Overnight)
+<!-- ═════════════ IMPACT AT A GLANCE ═════════════ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/ACCURACY-88%25-2563EB?style=for-the-badge&labelColor=0F172A" alt="88% accuracy"/>
+  <img src="https://img.shields.io/badge/USERS-5%2C000%2B-2563EB?style=for-the-badge&labelColor=0F172A" alt="5,000+ users"/>
+  <img src="https://img.shields.io/badge/THROUGHPUT-3×-2563EB?style=for-the-badge&labelColor=0F172A" alt="3x throughput"/>
+  <img src="https://img.shields.io/badge/FORECAST_HORIZON-2–3_WEEKS-2563EB?style=for-the-badge&labelColor=0F172A" alt="2-3 week forecast horizon"/>
+</p>
 
-</div>
+<br/>
+
+<!-- ═════════════ FEATURED: INDUSTRIAL ML ═════════════ -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3 align="center">🏭 &nbsp;Industrial ML &amp; Production Intelligence</h3>
+      <p align="center"><sub><b>MANUFACTURING OPERATIONS</b> &nbsp;·&nbsp; FORECASTING &nbsp;·&nbsp; PROCUREMENT &nbsp;·&nbsp; QUALITY &nbsp;·&nbsp; OPERATIONAL VISIBILITY</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Machine_Learning-0F172A?style=flat-square&amp;logo=scikitlearn&amp;logoColor=F7931E" alt="Machine Learning"/>
+        <img src="https://img.shields.io/badge/Computer_Vision-0F172A?style=flat-square&amp;logo=opencv&amp;logoColor=5C3EE8" alt="Computer Vision"/>
+        <img src="https://img.shields.io/badge/IoT_Analytics-0F172A?style=flat-square&amp;logoColor=14B8A6" alt="IoT Analytics"/>
+      </p>
+      <p align="justify">
+        Designed and delivered machine-learning systems for day-to-day manufacturing operations. These include a demand-forecasting workflow that supports raw-material procurement planning two to three weeks ahead, an AI-assisted visual-inspection workflow for repetitive quality checks, and an industrial analytics interface that turns IoT data into clear visibility of manufacturing KPIs.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- ═════════════ ROW 1 ═════════════ -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 &nbsp;Vastu Floor Plan Analyzer</h3>
+      <p align="center"><sub><b>COMPUTER VISION</b> &nbsp;·&nbsp; DEEP LEARNING</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/CNN-4B5563?style=flat-square" alt="CNN"/>
+      </p>
+      <p align="justify">
+        A convolutional neural network that classifies floor-plan images for Vastu compliance. The model reached <b>88% classification accuracy</b> and supports a product serving <b>5,000+ users</b>.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 &nbsp;Agentic AI Automation Platform</h3>
+      <p align="center"><sub><b>AGENTS</b> &nbsp;·&nbsp; RAG &nbsp;·&nbsp; WORKFLOW AUTOMATION</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangGraph"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangChain"/>
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB"/>
+      </p>
+      <p align="justify">
+        A configurable agent platform for business knowledge queries and workflow automation. It combines retrieval-augmented generation (document ingestion, embeddings, and semantic search) with conversational memory and tool integrations, using API services to connect language models to application workflows.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- ═════════════ ROW 2 ═════════════ -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ &nbsp;Scorpion 2.0</h3>
+      <p align="center"><sub><b>DATASET GENERATION</b> &nbsp;·&nbsp; WEB SCRAPING</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&amp;logo=selenium&amp;logoColor=white" alt="Selenium"/>
+        <img src="https://img.shields.io/badge/Concurrency-4B5563?style=flat-square" alt="Concurrency"/>
+      </p>
+      <p align="justify">
+        A concurrent web-scraping framework built to generate labeled datasets for machine learning, with reported throughput of <b>3× the baseline implementation</b>.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧭 &nbsp;Vastu Compass</h3>
+      <p align="center"><sub><b>MOBILE</b> &nbsp;·&nbsp; SENSOR FUSION</sub></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=white" alt="Android"/>
+        <img src="https://img.shields.io/badge/GPS-4B5563?style=flat-square" alt="GPS"/>
+        <img src="https://img.shields.io/badge/Device_Sensors-4B5563?style=flat-square" alt="Device Sensors"/>
+      </p>
+      <p align="justify">
+        An Android spatial-alignment application that combines GPS and device-sensor inputs for grid mapping.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=70&section=footer" width="100%" alt=""/>
+
+## `06 / LET'S CONNECT`
+
+Interested in AI/ML engineering, applied AI, useful automation, and collaborations where the technical work has a clear purpose.
 
 <div align="center">
 
-```
-   /\_/\____,
-  /       (  \
- (   O   O    \____
-  \   ~     ,       )   "hunts problems, not attention."
-   \  U   /^^^^\ /
-    \/  \(     |||
-     |   |    |||
-     (___/    |||
-```
+<a href="https://mzrishad.netlify.app"><img src="https://img.shields.io/badge/Explore_My_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Explore my portfolio"/></a>
+<a href="https://www.linkedin.com/in/mzrishad"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:mzrishad.info@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1500&color=00C7B7&center=true&vCenter=true&width=500&lines=thanks+for+stopping+by+%E2%80%94+let%27s+build+something.)](https://git.io/typing-svg)
+<br/><br/>
+
+<sub>Designed with curiosity, built with code, improved through iteration.</sub>
 
 </div>
-
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
-
-<div align="center"><sub>Proudly hand-rebuilt from a GPRM-generated base ✦ animated with capsule-render, readme-typing-svg &amp; Platane/snk</sub></div>
