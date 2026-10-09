@@ -65,6 +65,33 @@ pack:     open to AI/ML collaborations
 
 ---
 
+## `02 / TECH STACK`
+</div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=00C7B7&center=true&vCenter=true&width=550&lines=loading+stack...;compiling+skills...;%5BOK%5D+stack+ready)](https://git.io/typing-svg)
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,django,flask,nodejs,nextjs,angular,ts,js,mysql,sqlite,mongodb,firebase,java,git,github,netlify&theme=dark&perline=10" />
+
+</div>
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+```text
+┌── ML / Data ───────────────────┬── AI Engineering ────────────────┬── Web / Backend ────────────────┐
+│ ▓▓▓▓▓▓▓▓▓▓ Python              │ ▓▓▓▓▓▓▓▓░░ LangChain             │ ▓▓▓▓▓▓▓▓░░ FastAPI / Django     │
+│ ▓▓▓▓▓▓▓▓░░ TensorFlow          │ ▓▓▓▓▓▓▓░░░ MCP Server            │ ▓▓▓▓▓▓▓░░░ Node.js / Next.js    │
+│ ▓▓▓▓▓▓▓░░░ scikit-learn        │ ▓▓▓▓▓▓░░░░ LLMs                  │ ▓▓▓▓▓▓░░░░ Angular              │
+│ ▓▓▓▓▓▓▓░░░ Pandas / NumPy      │ ▓▓▓▓▓▓░░░░ Generative AI         │ ▓▓▓▓▓▓░░░░ TypeScript           │
+│ ▓▓▓▓▓▓░░░░ Matplotlib / SciPy  │ ▓▓▓▓▓░░░░░ RAG                   │ ▓▓▓▓▓░░░░░ MySQL / MongoDB      │
+└────────────────────────────────┴──────────────────────────────────┴─────────────────────────────────┘
+```
+</div>
+
+---
+
 ## `03 / WHAT I BUILD`
 
 <table>
