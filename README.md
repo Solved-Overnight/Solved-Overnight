@@ -35,17 +35,7 @@
 <tr>
 <td width="30%" valign="middle" align="center">
 
-<pre>
-  /\         /\
- /  \_______/  \
-/   /       \   \
-|  /  O   O  \  |
- \ |    _    | /
-  \|   (_)   |/
-   \   \_/   /
-    '.  ^  .'
-      \___/
-</pre>
+<img src="Neon%20Wolf.png" width="220" alt="Neon Wolf"/>
 
 </td>
 <td width="70%" valign="middle" align="left">
@@ -72,16 +62,6 @@ pack:     open to AI/ML collaborations
 </td>
 </tr>
 </table>
-
-## `02 / TECH STACK`
-</div>
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=800&color=00C7B7&center=true&vCenter=true&width=550&lines=loading+stack...;compiling+skills...;%5BOK%5D+stack+ready)](https://git.io/typing-svg)
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,django,flask,nodejs,nextjs,angular,ts,js,mysql,sqlite,mongodb,firebase,java,git,github,netlify&theme=dark&perline=10" />
-
-</div>
 
 ---
 
